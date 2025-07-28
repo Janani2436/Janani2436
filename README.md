@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Janani
 
-🎓 I'm a second-year Electronics and Communication Engineering student at KPR Institute of Engineering and Technology.  
+🎓 I'm a third-year Electronics and Communication Engineering student at KPR Institute of Engineering and Technology.  
 💻 I love building full-stack applications, experimenting with AI, and solving real-world problems with code.
 
 ---
