@@ -1,38 +1,132 @@
-# Hi there 👋 I'm Janani
+# Hi, I'm Janani 👋
 
-🎓 I'm a third-year Electronics and Communication Engineering student at KPR Institute of Engineering and Technology.  
-💻 I love building full-stack applications, experimenting with AI, and solving real-world problems with code.
+### Electronics and Communication Engineering Student | AI/ML | Networking | Embedded Systems | Cybersecurity
 
----
+I'm an Electronics and Communication Engineering student interested in building practical solutions at the intersection of **AI, networking, embedded systems, and cybersecurity**.
 
-## 🛠️ What I'm Working On
-- 🚀 [**MindMate**](https://mindmate-emo.netlify.app): An AI-powered emotional wellness app with mood tracking, multilingual emotional support (Mistral AI), and real-time voice/text interaction.
-- 🧠 **SkillForge** (in progress): A personalized AI learning roadmap generator for skill-building.
-- 👁 **Face Recognition Attendance System**: Real-time attendance tracking using Python, OpenCV, and ML.
+I enjoy learning by building projects and understanding how systems work from both the software and hardware perspective.
 
 ---
 
-## ⚡ Tech Stack
-**Languages**: Python, C, JavaScript (ES6), HTML, CSS  
-**Frontend**: React.js, Tailwind CSS  
-**Backend**: Node.js, Express.js, MongoDB, REST APIs  
-**AI/ML**: OpenAI API, Mistral AI (via OpenRouter), Prompt Engineering, OpenCV  
-**Tools**: Git, GitHub, Render, Netlify, VS Code, Postman  
+## 🛠️ Technical Skills
+
+### Programming
+
+* Python
+* C
+* Java
+
+### AI / Machine Learning
+
+* Machine Learning fundamentals
+* Python for AI/ML
+* LLM-based applications
+* OpenAI API
+* Mistral AI
+
+### Networking
+
+* Computer Networking fundamentals
+* Cisco Networking fundamentals
+* Software-Defined Networking (SDN)
+* Mininet
+* Open vSwitch (OVS)
+* Ryu
+* OpenFlow 1.3
+
+### Embedded & Automotive
+
+* Embedded Systems fundamentals
+* CAN Bus communication
+* Electronic Control Units (ECUs)
+* Automotive cybersecurity
+
+### Cybersecurity
+
+* CAN Bus security
+* Intrusion Detection Systems
+* Replay attack detection
+* Spoofing attack detection
+* Flooding attack detection
+* Fuzzing attack detection
+* Linux fundamentals
 
 ---
 
-## 🌱 Currently Learning
-- AI-based recommendation engines  
-- Backend security & JWT authentication  
-- MongoDB Aggregation + Data Visualization  
+## 🚀 Featured Projects
+
+### 🔐 CAN Bus Intrusion Detection System
+
+Developed a simulated automotive CAN network with multiple ECUs to study CAN communication and security.
+
+* Simulated communication between multiple ECUs
+* Analyzed CAN traffic
+* Implemented detection for Replay, Spoofing, Flooding, and Fuzzing attacks
+* Performed threat analysis of CAN communication
+* Explored automotive cybersecurity concepts
+
+**Focus:** Python · CAN Bus · Automotive Cybersecurity · Intrusion Detection
 
 ---
 
-## ✨ Fun Fact
-I love turning problems into projects — and I learn best by building!
+### 🌐 AI-Driven Networking / SDN Project
+
+Working on a networking project focused on Software-Defined Networking and intelligent network management.
+
+* Exploring SDN architecture and network topology
+* Using Mininet for network simulation
+* Working with Open vSwitch
+* Learning Ryu controller development
+* Studying OpenFlow 1.3
+* Exploring network traffic analysis and management
+
+**Focus:** Computer Networks · SDN · Mininet · Open vSwitch · Ryu · OpenFlow
 
 ---
 
-## 📫 Let’s Connect
-- LinkedIn: [janani2006](https://www.linkedin.com/in/janani2006)  
-- Email: janani2436@gmail.com  
+### 🤖 AI / Machine Learning Projects
+
+Built academic and personal projects involving AI/ML and AI-powered applications.
+
+* Developed applications using Python and machine learning concepts
+* Worked with LLM APIs for AI-based applications
+* Explored AI-assisted recommendation and learning systems
+* Worked with OpenAI and Mistral AI APIs
+
+**Focus:** Python · Machine Learning · LLMs · AI APIs
+
+---
+
+## 📚 Currently Learning
+
+* Automotive Cybersecurity
+* CAN Bus Security
+* Embedded Systems
+* Computer Networking
+* Software-Defined Networking
+* Linux
+* AI/ML applications
+* LLM-based applications
+
+---
+
+## 🎯 Areas of Interest
+
+* Artificial Intelligence & Machine Learning
+* Automotive Cybersecurity
+* Embedded Systems
+* Computer Networks
+* Software-Defined Networking
+* Intelligent Systems
+
+---
+
+## 📊 GitHub
+
+I use GitHub to document my projects, experiments, and learning journey as I continue developing my technical skills.
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Janani2436)
